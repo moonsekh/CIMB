@@ -609,8 +609,8 @@ sub {
 .footer {
     display: block;
     margin: 0 auto;
-    padding-top: 30px;
-    padding-bottom: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     width: 2460px;
 }
 
