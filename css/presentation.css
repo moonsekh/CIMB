@@ -160,7 +160,8 @@
 
 .cta__button {
     color: #fff;
-    background-color: #0072b8;
+    background-color: #9da4a9;
+    border-radius: 15%;
     border: 0;
     font-family: Arial;
     font-size: 28px;
@@ -171,7 +172,7 @@
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
-    background-color: #00436e;
+    background-color: #0072b8;
 }
 
 .fullscreen .cta--side .cta__button {
