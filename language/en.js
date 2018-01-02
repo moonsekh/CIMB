@@ -45,17 +45,17 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "98139ed4",
+            "url": "https://www.cimb.com/en/contact-us/customer-service.html",
             "label": "Contact",
             "icon": "contact"
         },
         "button2": {
-            "card": "d1b4d742",
+            "url": "https://www.cimb.com",
             "label": "Website",
             "icon": "website"
         },
         "button3": {
-            "card": "d1b4d742",
+            "url": "https://www.cimb.com/en/contact-us/customer-service.html#read",
             "label": "Email",
             "icon": "email"
         },
