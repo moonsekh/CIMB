@@ -134,15 +134,6 @@ var Translations = {
                     "width": 20
                 }
             ]
-        },
-        {
-            "label": "Thank You",
-            "states": [
-                {
-                    "cardId": "Scene 11",
-                    "width": 20
-                }
-            ]
         }
     ]
 }
