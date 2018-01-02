@@ -25,15 +25,15 @@ var socialIconSettings = {
     "position": "right",
     "icons": {
         "facebook": {
-            "url": "https://facebook.com",
+            "url": "https://www.facebook.com/CIMBMalaysia",
             "text": "Facebook"
         },
         "twitter": {
-            "url": "https://twitter.com",
+            "url": "https://twitter.com/CIMB_Assists",
             "text": "Twitter"
         },
         "googleplus": {
-            "url": "https://plus.google.com",
+            "url": "https://plus.google.com/111929543681274844331",
             "text": "Google+"
         },
         "email": {
@@ -41,7 +41,7 @@ var socialIconSettings = {
             "text": "Email"
         },
         "link": {
-            "url": "https://pb.com",
+            "url": "https://www.cimbbank.com.my/en/personal/index.html",
             "text": "Website"
         }
     }
