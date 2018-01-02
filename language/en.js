@@ -120,12 +120,8 @@ var Translations = {
             "label": "Your Account",
             "states": [
                 {
-                    "cardId": "77a834f0",
-                    "width": 20
-                },
-                {
-                    "cardId": "c23a68c9",
-                    "width": 20
+                    "cardId": "2956314f",
+                    "width": 40
                 }
             ]
         },
@@ -133,7 +129,7 @@ var Translations = {
             "label": "Thank You",
             "states": [
                 {
-                    "cardId": "7b0123a5",
+                    "cardId": "98139ed4",
                     "width": 40
                 }
             ]
