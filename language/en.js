@@ -34,7 +34,7 @@ var Translations = {
      *
      * In this object you can define up to 5 CTA buttons, each with a "label" and "icon" property.
      * The key for each object should be unique to each button. And the "icon" property should correspond to
-     * a CTA icon CSS class in the form of ".cta__icon--<icon>".
+     * a CTA icon CSS class in the form of ".cta__icon--<icon>"..
      *
      * In addition, each button can either have a "card" or "url" property to define its function.
      *
