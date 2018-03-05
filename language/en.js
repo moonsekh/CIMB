@@ -24,7 +24,7 @@ var Translations = {
 
     "PreparedForText": "Prepared for",
 
-    "CopyrightText": "Copyright 2017 Client Name",
+    "CopyrightText": "Copyright 2017 CIMB Bank Berhad",
     "PoweredByFooterText": "Powered by",
     "HelpFooterText": "Help",
     "PrivacyPolicyFooterText": "Privacy Policy",
