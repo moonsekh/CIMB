@@ -238,8 +238,8 @@ sub {
 
 .player {
     float: left;
-    width: 78%;
-    margin-left: 5%;
+    width: 89%;
+    margin-left: 0%;
 }
 
 .fullscreen .player {
