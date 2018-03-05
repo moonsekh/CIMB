@@ -117,23 +117,39 @@ var Translations = {
             ]
         },
         {
-            "label": "Your Account",
+            "label": "Risk Appette",
             "states": [
                 {
                     "cardId": "2956314f",
                     "width": 20
-                },
-                
+                }
+             ]
+        },
+          "label": "Appointment",
+            "states": [
                 {
                     "cardId": "78afe303",
                     "width": 20
-                },
-                
-                                {
+                }
+             ]
+        }, 
+    
+          "label": "Offers",
+            "states": [
+                {
                     "cardId": "98139ed4",
                     "width": 20
                 }
             ]
-        }
-    ]
+        },
+          "label": "Thanks",
+            "states": [
+                {
+                    "cardId": "98139ed4",
+                    "width": 20
+                }
+            ]
+        },
+
+   ]
 }
