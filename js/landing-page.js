@@ -2421,7 +2421,7 @@ var FullScreenHandler = {
             var width = $(window).innerWidth(),
                 height = $(window).innerHeight();
 
-            if (FullScreenHandler.isRatioNarrowerThan([width, height], [16, 9])) {
+            if (FullScreenHandler.isRatioNarrowerThan([width, height], [19, 9])) {
                 $("html").addClass("less-16-9");
             } else {
                 $("html").removeClass("less-16-9");
