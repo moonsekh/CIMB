@@ -117,7 +117,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Risk Appette",
+            "label": "Risk Appetite",
             "states": [
                 {
                     "cardId": "2956314f",
