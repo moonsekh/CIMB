@@ -150,6 +150,5 @@ var Translations = {
                 }
             ]
         },
-
    ]
 }
