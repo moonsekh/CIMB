@@ -125,6 +125,7 @@ var Translations = {
                 }
              ]
         },
+        {
           "label": "Appointment",
             "states": [
                 {
@@ -133,7 +134,7 @@ var Translations = {
                 }
              ]
         }, 
-    
+        {
           "label": "Offers",
             "states": [
                 {
@@ -142,7 +143,8 @@ var Translations = {
                 }
             ]
         },
-          "label": "Thanks",
+        {
+            "label": "Thanks",
             "states": [
                 {
                     "cardId": "End",
