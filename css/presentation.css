@@ -40,7 +40,8 @@
 }
 
 .top-wrapper {
-    background-color: #696969;
+    /**background-color: #696969;**/
+    background: linear-gradient(red, yellow);
 }
 
 .fullscreen .top-wrapper {
