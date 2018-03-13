@@ -41,7 +41,7 @@
 
 .top-wrapper {
     /**background-color: #696969;**/
-    background: linear-gradient(90deg, #04c2f2, #8fea6b);
+    background: linear-gradient(to bottom right, #04c2f2, #8fea6b);
 }
 
 .fullscreen .top-wrapper {
