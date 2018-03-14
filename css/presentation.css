@@ -35,22 +35,13 @@
 
 /** Main Styling (for 1080p) **/
 .body {
-    /** background-color: #f0f0f0; **/
-    background:
-    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
-    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
-    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
-    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
-    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
-    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
-    background-color: #131313;
-    background-size: 20px 20px;
+    background-color: #f0f0f0;
     font-family: "OpenSans_Regular", Arial;
 }
 
 .top-wrapper {
-    /**background-color: #696969;
-    background: linear-gradient(to right, #04c2f2, #8fea6b);**/
+    /**background-color: #696969;**/
+    background: linear-gradient(to bottom right, #04c2f2, #8fea6b);
 }
 
 .fullscreen .top-wrapper {
@@ -170,12 +161,12 @@
 
 .cta__button {
     color: #fff;
-    background-color: #000000;
+    background-color: #9da4a9;
     border-radius: 0;
     border: 0;
     font-family: Arial;
     font-size: 28px;
-    font-weight: normal;
+    font-weight: bold;
     cursor: pointer;
 }
 
@@ -260,7 +251,7 @@
 }
 
 .player {
-    background-color: #000000 /** #dbdbdb; **/
+    background-color: #dbdbdb;
 }
 
 .player__splash {
@@ -867,7 +858,7 @@
     }
 
     .cta--side .cta__button {
-        font-size: 10px;
+        font-size: 18px;
     }
 
     .player__splash-image {
