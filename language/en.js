@@ -55,7 +55,7 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
-            "url": "https://www.cimb.com/en/contact-us/customer-service.html#read",
+            "url": "mailto:callcentre@cimb.com?Subject=EngageOne%23Video%20Support%20Request",
             "label": "Email",
             "icon": "email"
         },
