@@ -82,16 +82,16 @@
 </head>
 
 <body class="body">
-   <div id="jsTopWrapper" class="top-wrapper top-wrapper--no-promo" style="padding-bottom: 15px;">
+    <div id="jsTopWrapper" class="top-wrapper">
         <header id="jsHeader" class="header">
-            <!-- <div class="social social--top social--expanded jsSocialIcons" id="jsSocialIconsTop">
+            <div class="social social--top social--expanded jsSocialIcons" id="jsSocialIconsTop">
                 <a href="#" class="social__icon social__icon--collapse" id="jsSocialIconTopCollapse">
                     <span class="sr-only translate" data-translate="CollapseText">Collapse</span>
                 </a>
                 <a href="#" class="social__icon social__icon--expand" id="jsSocialIconTopExpand">
                     <span class="sr-only translate" data-translate="ExpandText">Expand</span>
                 </a>
-            </div> -->
+            </div>
 
             <br class="clearfix" />
 
@@ -112,8 +112,12 @@
             <div class="player">
                 <div class="player__wrapper">
                     <div class="player__iframe" id="jsPlayerIframe">
-                        {{VIDEO_IFRAME}}
-
+                        <!-- {{VIDEO_IFRAME}} -->
+						<iframe src="/pitneybowes/engageone_video/videoPlayer.php?_timeline=0&amp;language=en&amp;uid=forbes&amp;ts=1510806935&amp;key=yM8T%2Bm3%2BeiDZY54UVPX8UkjcJaE%3D" frameborder="0" scrolling="no" style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: none;" id="videoPlayerIframe" allowfullscreen="" class="no-focus"></iframe>
+						
+						<!-- <iframe width="420" height="315" -->
+						<!-- src="https://www.youtube.com/embed/XGSy3_Czz8k"> -->
+						<!-- </iframe> -->
                         <div id="jsResumeSplash" class="player__splash">
                             <div class="player__splash-image player__splash-image--white"></div>
                             <span class="sr-only translate" data-translate="ResumeVideoPlayback">Resume Video Playback</span>
@@ -122,7 +126,7 @@
                 </div>
             </div>
 
-            <!-- <div id="jsPromoContainerDesktop" class="promo promo--side jsPromoContainer"></div> -->
+            <div id="jsPromoContainerDesktop" class="promo promo--side jsPromoContainer"></div>
 
             <br class="clearfix" />
 
@@ -345,37 +349,9 @@
 
         <div class="social social--bottom jsSocialIcons" id="jsSocialIconsBottom"></div>
 
-        <!-- <div id="jsPromoContainerMobile" class="promo promo--bottom jsPromoContainer"></div> -->
+        <div id="jsPromoContainerMobile" class="promo promo--bottom jsPromoContainer"></div>
 
-        <footer class="footer">
-            <div class="footer__poweredby">
-                <a class="footer__link footer__link--image" href="http://www.pitneybowes.com/" target="_blank">
-                    <img class="footer__pblogo" src="./images/pb_logo.png" alt="Pitney Bowes" />
-                </a>
-
-                <br class="footer__poweredby-break" />
-
-                <a class="footer__link" href="http://www.pitneybowes.com/us/customer-engagement-marketing/synchronized-communications-execution/engageone-video-personalized-video.html" target="_blank">
-                    <span class="translate" data-translate="PoweredByFooterText">Powered by</span> Pitney Bowes
-                    <strong>EngageOne<sup>&reg;</sup> Video</strong>
-                </a>
-            </div>
-
-            <div class="footer__copyright">
-                &copy; <span class="translate" data-translate="CopyrightText">Copyright 2017 Client Name</span>
-            </div>
-
-            <div class="footer__links">
-                <a href="#" class="footer__link translate" data-translate="HelpFooterText" target="_blank">Help</a> |
-                <a href="#" class="footer__link translate" data-translate="PrivacyPolicyFooterText" target="_blank">Privacy Policy</a>
-            </div>
-        </footer>
-    </div>
-
-    <script src="js/jquery-1.12.4.min.js"></script>
-    <script src="js/modernizr-custom.js"></script>
-    <script src="js/settings.js"></script>
-    <script src="js/landing-page.js"></script>
+	
 
     <!--
         Uncomment the section below and update the "gaTrackingCode" variable to enable google analytics.
