@@ -36,7 +36,7 @@ var Translations = {
      * The key for each object should be unique to each button. And the "icon" property should correspond to
      * a CTA icon CSS class in the form of ".cta__icon--<icon>"..
      *
-     * In addition, each button can either have a "card" or "url" property to define its function.
+     * In addition, each button can either have a "card" or "url" property to define its function..
      *
      * "card" buttons activate a side card that is defined in the video project. This property should have the value
      * of the target cards id from the Interactions Manager in the EOV Director.
