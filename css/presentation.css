@@ -35,7 +35,7 @@
 
 /** Main Styling (for 1080p) **/
 .body {
-    background-color: #f0f0f0;
+    /** background-color: #f0f0f0; **/
     font-family: "OpenSans_Regular", Arial;
 }
 
@@ -251,7 +251,7 @@
 }
 
 .player {
-    background-color: #dbdbdb;
+    background-color: #000000 /** #dbdbdb; **/
 }
 
 .player__splash {
