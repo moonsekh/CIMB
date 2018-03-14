@@ -40,8 +40,7 @@
 }
 
 .top-wrapper {
-    /**background-color: #696969;**/
-    background: linear-gradient(to bottom right, #04c2f2, #8fea6b);
+    background: #717171 url("../images/background_tile.png");
 }
 
 .fullscreen .top-wrapper {
@@ -161,8 +160,7 @@
 
 .cta__button {
     color: #fff;
-    background-color: #9da4a9;
-    border-radius: 0;
+    background-color: #0072b8;
     border: 0;
     font-family: Arial;
     font-size: 28px;
@@ -173,7 +171,7 @@
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
-    background-color: #0072b8;
+    background-color: #00436e;
 }
 
 .fullscreen .cta--side .cta__button {
@@ -524,7 +522,7 @@
 }
 
 .timeline-chapters--seen {
-    color: #bfbfbf;
+    color: #ffffff;
 }
 
 .timeline-contrast .timeline-chapters__label {
