@@ -45,7 +45,7 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "url": "https://www.cimb.com/en/contact-us/customer-service.html",
+            "card": "d2166039",
             "label": "Contact",
             "icon": "contact"
         },
