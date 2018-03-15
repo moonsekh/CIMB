@@ -402,13 +402,13 @@ sub {
     width: 9%;
 }
 
-/**.timeline__button {
+.timeline__button {
     float: left;
     margin: 0;
     padding: 0;
     height: 100%;
     border: 0;
-}**/
+}
 
 .fullscreen .timeline__button {
     margin: 0;
