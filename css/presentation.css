@@ -481,7 +481,7 @@
     --timeline-bgX: calc((100%/26) * 16);
 }
 
-/** .timeline__button-icon--fullscreen {
+ .timeline__button-icon--fullscreen {
     background-position-x: calc((100%/26) * 17);
     --timeline-bgX: calc((100%/26) * 17);
 }
@@ -489,7 +489,7 @@
 .timeline__button-icon--fullscreen-in {
     background-position-x: calc((100%/26) * 18);
     --timeline-bgX: calc((100%/26) * 18);
-} **/
+} 
 
 .timeline__button-icon--volume-0 {
     background-position-x: calc((100%/26) * 19);
