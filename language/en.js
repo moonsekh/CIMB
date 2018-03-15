@@ -120,7 +120,7 @@ var Translations = {
             "label": "Risk Appetite",
             "states": [
                 {
-                    "cardId": "2956314f",
+                    "cardId": "235e7aa2",
                     "width": 20
                 }
              ]
