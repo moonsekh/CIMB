@@ -334,9 +334,9 @@
     border-color: #dbdbdb;
 }
 
-.timeline__button {
+/**.timeline__button {
     background-color: #2e2e2e;
-    cursor: pointer;
+    cursor: pointer;**/
 }
 
 .timeline__button--skip-back,
@@ -355,8 +355,8 @@
 }
 
 .timeline__button--settings,
-.timeline__button--fullscreen {
-    width: 60px;
+/**.timeline__button--fullscreen {
+    width: 60px;**/
 }
 
 .timeline__button--volume {
