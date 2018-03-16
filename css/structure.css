@@ -867,7 +867,8 @@ sub {
     }
 
     .cta--side.cta--4 .cta__button {
-        height: 132px;
+        height: 100px;
+        background-color: black;
     }
 
     .cta--side.cta--5 .cta__button {
