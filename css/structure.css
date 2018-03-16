@@ -167,7 +167,7 @@ sub {
 }
 
 .cta--side .cta__button {
-    width: 80%;
+    width: 75%;
 }
 
 .fullscreen .cta--side .cta__button {
@@ -852,6 +852,7 @@ sub {
     .cta--side,
     .promo--side {
         width: 135px;
+        margin-top: 4%;
     }
 
     .cta--side.cta--1 .cta__button {
@@ -872,7 +873,7 @@ sub {
     }
 
     .cta--side.cta--5 .cta__button {
-        height: 89px;
+        height: 85px;
         background-color: black;
     }
 
