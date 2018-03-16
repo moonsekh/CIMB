@@ -131,6 +131,7 @@ sub {
     overflow: hidden;
     margin: 0 auto;
     width: 2460px;
+    background: #504b4b;
 }
 
 .fullscreen .main,
