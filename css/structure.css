@@ -853,6 +853,7 @@ sub {
     .promo--side {
         width: 135px;
         margin-top: 8%;
+        padding-left: 5%;
     }
 
     .cta--side.cta--1 .cta__button {
