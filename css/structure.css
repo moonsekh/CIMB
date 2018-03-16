@@ -1007,7 +1007,7 @@ sub {
     .cta--side,
     .promo--side {
         width: 90px;
-        margin-top: 12%;
+        margin-top: 2%;
     }
 
     .cta--side.cta--1 .cta__button {
