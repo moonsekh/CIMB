@@ -164,9 +164,9 @@
     background-color: #9da4a9;
     border-radius: 0;
     border: 0;
-    font-family: Arial;
+   /** font-family: Arial; **/
     font-size: 28px;
-    font-weight: bold;
+    font-weight: normal;
     cursor: pointer;
 }
 
@@ -858,7 +858,7 @@
     }
 
     .cta--side .cta__button {
-        font-size: 18px;
+        font-size: 14px;
     }
 
     .player__splash-image {
