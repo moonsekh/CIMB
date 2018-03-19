@@ -171,7 +171,7 @@ sub {
 }
 
 .cta--side .cta__button {
-    width: 100%;
+    width: 90%;
 }
 
 .fullscreen .cta--side .cta__button {
@@ -219,7 +219,6 @@ sub {
 }
 
 .cta--side.cta--5 .cta__button {
-    margin-bottom: 5px;
     height: 212px;
 }
 
@@ -735,7 +734,7 @@ sub {
     }
 
     .cta--side.cta--5 .cta__button {
-        height: 140px;
+        height: 100px;
     }
 
     .promo--side .promo__item {
@@ -875,7 +874,7 @@ sub {
     }
 
     .cta--side.cta--5 .cta__button {
-        height: 104px;
+        height: 75px;
     }
 
     .promo--side .promo__item {
