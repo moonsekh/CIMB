@@ -258,10 +258,10 @@ sub {
 
 .player__iframe {
     position: relative;
-    width: 80%;
-    height: 80%;
-    top: 10%;
-    left: 10%;
+    width: 70%;
+    height: 70%;
+    top: 15%;
+    left: 8%;
 }
 
 .player__splash {
@@ -1183,8 +1183,8 @@ sub {
 
     .player__iframe {
         position: absolute;
-        top: 10;
-        left: 10;
+        top: 12%;
+        left: 10%;
     }
 
     .timeline {
