@@ -149,6 +149,10 @@ sub {
     float: left;
     width: 270px;
     min-height: 1px;
+    position: relative;
+    left: 4%;
+    margin-top: 7.5%;
+    margin-left: 2%;
 }
 
 .fullscreen .cta--side {
@@ -711,7 +715,7 @@ sub {
 
     .cta--side,
     .promo--side {
-        width: 180px;
+        width: 145px;
     }
 
     .cta--side.cta--1 .cta__button {
@@ -851,7 +855,7 @@ sub {
 
     .cta--side,
     .promo--side {
-        width: 135px;
+        width: 100px;
     }
 
     .cta--side.cta--1 .cta__button {
@@ -1005,7 +1009,7 @@ sub {
 
     .cta--side,
     .promo--side {
-        width: 90px;
+        width: 64px;
     }
 
     .cta--side.cta--1 .cta__button {
