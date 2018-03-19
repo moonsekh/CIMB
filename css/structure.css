@@ -46,6 +46,7 @@ sub {
 .header__text {
     padding-top: 0px;
     padding-bottom: 0px;
+    background-color: #EC1D23;
 }
 
 .header__lowbandwidth {
