@@ -1178,8 +1178,8 @@ border-bottom-right-radius: 6%;
 /** Mobile devices in landscape and tablet devices in portrait **/
 @media screen and (max-width: 820px) {
     .cta__button {
-        border-right: 1px solid #fff;
-        border-bottom: 1px solid #fff;
+       /** border-right: 1px solid #fff;
+        border-bottom: 1px solid #fff; **/
     }
 }
 
