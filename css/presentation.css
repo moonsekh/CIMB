@@ -170,6 +170,11 @@
     cursor: pointer;
 }
 
+.cta__button--button-1{
+border-top-left-radius: 6%;
+border-top-right-radius: 6%;
+}
+
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
@@ -1181,10 +1186,7 @@
                 transition: width 0.5s ease-in-out;
     }
 
-    .cta--1 .cta__button--button-1{
-    border-top-left-radius: 6%;
-    border-top-right-radius: 6%;
-    }
+    .cta--1 .cta__button--button-1,
     .cta--2 .cta__button--button-2,
     .cta--3 .cta__button--button-3,
     .cta--4 .cta__button--button-4,
