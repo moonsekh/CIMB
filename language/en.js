@@ -138,7 +138,7 @@ var Translations = {
           "label": "Offers",
             "states": [
                 {
-                    "cardId": "98139ed4",
+                    "cardId": "b2243802",
                     "width": 20
                 }
             ]
