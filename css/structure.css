@@ -1151,7 +1151,7 @@ sub {
     }
     .top-wrapper--no-cta .header,
     .top-wrapper--no-promo .header {
-        padding: 10px 10px 0 10px;
+       /** padding: 10px 10px 0 10px; **/
     }
 
     .social--top {
