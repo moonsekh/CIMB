@@ -40,7 +40,8 @@
 }
 
 .top-wrapper {
-    background-color: #696969;
+    /**background-color: #696969;**/
+    background: linear-gradient(to bottom right, #04c2f2, #8fea6b);
 }
 
 .fullscreen .top-wrapper {
@@ -161,7 +162,7 @@
 .cta__button {
     color: #fff;
     background-color: #9da4a9;
-    border-radius: 15%;
+    border-radius: 0;
     border: 0;
     font-family: Arial;
     font-size: 28px;
