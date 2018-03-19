@@ -851,7 +851,7 @@ sub {
     }
 
     .header__logo {
-    padding: 0px 10px 0px 10px;
+    /** padding: 0px 10px 0px 10px; **/
     }
 
     .cta--side,
@@ -992,7 +992,7 @@ sub {
     }
 
     .header__logo {
-        padding: 20px 10px 0 10px;
+      /**  padding: 20px 10px 0 10px; **/
     }
 
     .top-wrapper--no-cta .header,
