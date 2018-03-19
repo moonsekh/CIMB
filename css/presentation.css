@@ -175,6 +175,11 @@ border-top-left-radius: 6%;
 border-top-right-radius: 6%;
 }
 
+.cta__button--button-5{
+border-bottom-left-radius: 6%;
+border-bottom-right-radius: 6%;
+}
+
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
