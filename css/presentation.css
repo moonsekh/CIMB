@@ -1204,7 +1204,7 @@ border-bottom-right-radius: 6%;
 /** Mobile devices in portrait **/
 @media screen and (max-width: 700px) and (orientation: portrait) {
     .header__logo {
-        width: 300px;
+      /**  width: 300px; **/
     }
 
     .player__splash-image {
