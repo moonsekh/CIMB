@@ -779,6 +779,7 @@ sub {
 
     .timeline__controls--right {
         width: 270px;
+        padding-left: 4%;
     }
 
     .timeline--no-volume .timeline__controls--right {
@@ -905,6 +906,7 @@ sub {
 
     .timeline__controls--right {
         width: 205px;
+        padding-left: 4%;
     }
 
     .timeline--no-volume .timeline__controls--right {
