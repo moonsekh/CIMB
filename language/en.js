@@ -129,7 +129,7 @@ var Translations = {
           "label": "Appointment",
             "states": [
                 {
-                    "cardId": "78afe303",
+                    "cardId": "9eef0155",
                     "width": 20
                 }
              ]
