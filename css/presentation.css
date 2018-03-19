@@ -734,8 +734,8 @@
 
     .cta__icon {
         margin-bottom: 15px;
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
     }
 
     .fullscreen .cta__icon {
@@ -849,8 +849,8 @@
 
     .cta__icon {
         margin-bottom: 10px;
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 
     .fullscreen .cta__icon {
@@ -998,7 +998,7 @@
     }
 
     .cta--side .cta__button {
-        font-size: 12px;
+        font-size: 8px;
     }
 
     .player__splash-image {
