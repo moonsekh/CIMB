@@ -161,13 +161,14 @@
 
 .cta__button {
     color: #fff;
-    background-color: #9da4a9;
+    background-color: rgb(157,164,169);
     border-radius: 0;
     border: 0;
     font-family: Arial;
     font-size: 28px;
     font-weight: bold;
     cursor: pointer;
+    border-bottom: 1px solid #938e8e;
 }
 
 .cta__button--button-1{
