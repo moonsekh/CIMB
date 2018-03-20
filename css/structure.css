@@ -132,7 +132,7 @@ sub {
     overflow: hidden;
     margin: 0 auto;
     width: 2460px;
-    background-image: url(./images/background.jpg);
+    background-image: url(https://github.com/moonsekh/CIMB/blob/master/images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
