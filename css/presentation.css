@@ -745,8 +745,8 @@ border-bottom-right-radius: 6%;
 
     .cta__icon {
         margin-bottom: 15px;
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 
     .fullscreen .cta__icon {
@@ -754,7 +754,7 @@ border-bottom-right-radius: 6%;
     }
 
     .cta--side .cta__button {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .player__splash-image {
@@ -860,8 +860,8 @@ border-bottom-right-radius: 6%;
 
     .cta__icon {
         margin-bottom: 10px;
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
 
     .fullscreen .cta__icon {
@@ -869,7 +869,7 @@ border-bottom-right-radius: 6%;
     }
 
     .cta--side .cta__button {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .player__splash-image {
@@ -1000,8 +1000,8 @@ border-bottom-right-radius: 6%;
 
     .cta__icon {
         margin-bottom: 6px;
-        width: 25px;
-        height: 25px;
+        width: 15px;
+        height: 15px;
     }
 
     .fullscreen .cta__icon {
@@ -1009,7 +1009,7 @@ border-bottom-right-radius: 6%;
     }
 
     .cta--side .cta__button {
-        font-size: 8px;
+        font-size: 6px;
     }
 
     .player__splash-image {
@@ -1235,7 +1235,7 @@ border-bottom-right-radius: 6%;
     }
 
     .cta--bottom .cta__button {
-        font-size: 15px;
+        font-size: 12px;
     }
 }
 
