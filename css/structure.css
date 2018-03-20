@@ -132,7 +132,9 @@ sub {
     overflow: hidden;
     margin: 0 auto;
     width: 2460px;
-    background-color: #f2f2f2;
+    background-image: url(https://www.cimb.com/content/dam/cimbgroup/images/rotating-banner/rotating-banner-slide1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .fullscreen .main,
