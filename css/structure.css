@@ -152,9 +152,9 @@ sub {
     width: 270px;
     min-height: 1px;
     position: relative;
-    left: 4%;
+    left: 3%;
     margin-top: 7%;
-    /** margin-left: 2%; **/
+    margin-right: -2%;
 }
 
 .fullscreen .cta--side {
