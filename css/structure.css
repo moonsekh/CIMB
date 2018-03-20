@@ -291,7 +291,7 @@ sub {
     display: none;
 }
 
-promo__item--bottom {
+div.promo__item.promo__item--bottom {
     display: none;
 }
 
