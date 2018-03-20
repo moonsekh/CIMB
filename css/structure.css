@@ -309,6 +309,7 @@ sub {
 
 .promo--bottom .promo__item--bottom {
     margin-bottom: 25px;
+    display: none;
 }
 
 .promo__image {
@@ -682,7 +683,10 @@ sub {
 }
 
 .top-wrapper--no-promo .promo {
-    display: none;
+   /** display: none; **/
+    margin-left: -8%;
+    width: 12%;
+    margin-top: 5%;
 }
 
 .bottom-wrapper--no-cta .cta--bottom {
