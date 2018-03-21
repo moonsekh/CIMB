@@ -237,6 +237,7 @@ sub {
 .cta--side.cta--4 .cta__button.cta__button--button-4,
 .cta--side.cta--5 .cta__button.cta__button--button-5 {
     margin-bottom: 0;
+    border-bottom: none;
 }
 
 .cta--bottom .cta__button {
