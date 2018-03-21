@@ -306,7 +306,7 @@ border-bottom-right-radius: 6%;
 }
 
 .promo--side .promo__image {
-    background-size: 200% 100%;
+    background-size: 100% 100%;
 }
 
 .promo--side .promo__link:hover .promo__image,
