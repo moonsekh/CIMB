@@ -19,6 +19,7 @@ sub {
 
 .no-focus {
     outline: none;
+    border-radius: 3px 3px 3px 3px;
 }
 
 .focusable:focus {
