@@ -1176,7 +1176,7 @@ div.promo__item.promo__item--bottom {
     }
 
     .social--bottom {
-        display: block;
+        display: none;
     }
 
     .promo--side {
