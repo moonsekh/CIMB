@@ -1185,6 +1185,7 @@ div.promo__item.promo__item--bottom {
 
     .promo--bottom {
         display: block;
+        margin-top: 2%;
     }
 
     .bottom-wrapper--no-promo .promo--bottom {
