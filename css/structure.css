@@ -270,6 +270,7 @@ sub {
     height: 80%;
     top: 10%;
     left: 8%;
+    box-shadow: 0 10px 22px -5px black;
 }
 
 .player__splash {
