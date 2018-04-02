@@ -342,9 +342,9 @@ border-bottom-right-radius: 6%;
     font-size: 20px;
 }
 
-.timeline__cover {
+/**.timeline__cover {
     background: #00436e;
-}
+} **/
 
 .timeline__controls {
     background-color: #482301;
