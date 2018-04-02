@@ -338,7 +338,7 @@ border-bottom-right-radius: 6%;
 
 .timeline {
     color: #fff;
-    background-color: #1f1f1f;
+    background-color: #482301;
     font-size: 20px;
 }
 
@@ -347,12 +347,12 @@ border-bottom-right-radius: 6%;
 }
 
 .timeline__controls {
-    background-color: #2e2e2e;
+    background-color: #482301;
     border-color: #dbdbdb;
 }
 
 .timeline__button {
-    background-color: #2e2e2e;
+    background-color: #482301;
     cursor: pointer;
 }
 
