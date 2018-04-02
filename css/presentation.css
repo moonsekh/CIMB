@@ -184,7 +184,7 @@ border-bottom-right-radius: 6%;
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
-    background-color: #becec6;
+    background-color: #07070763;
 }
 
 .fullscreen .cta--side .cta__button {
@@ -307,7 +307,7 @@ border-bottom-right-radius: 6%;
 }
 
 .promo__item:hover {
-    background-color: #becec6;
+    background-color: #07070763;
 }
 
 
